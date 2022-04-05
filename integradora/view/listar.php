@@ -12,7 +12,7 @@
 <body onload="listar()">
 	<div class="container">
 		<h2>Listar o Consultas</h2>
-		<p>Consultas de la tabla customers</p>
+		<p>Consultas de la tabla de usuarios</p>
 		<div id="demo"></div>
 	</div>
 
